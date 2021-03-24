@@ -31,7 +31,9 @@
 height: 100%;
 }
 
-.col4{
+.col{
     float: right;
 }
-            
+.button {
+    float:right;
+}
