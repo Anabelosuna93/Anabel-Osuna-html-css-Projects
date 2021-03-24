@@ -1,3 +1,32 @@
-.orange-background {
-    background-color: rgb(240, 102, 4);
-}
+ html, body {
+     margin:0;
+
+ }
+        
+        body {
+             height: 100vh;
+             
+         }
+         .my-container {
+             margin: 5px;
+              
+         }
+         .my-col1 {
+             background-color: #6b5443;;
+          
+             height: 500px;
+         }
+
+         .my-col2 {
+             background-color: dimgray;
+             height: 500px;
+         }
+
+         .my-col3 {
+             background-color: #f8f5f0;
+             height: 500px; 
+  }
+    
+
+
+            
