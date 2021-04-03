@@ -1,0 +1,36 @@
+html, body {
+    margin:0;
+
+}
+
+body {
+    height: 100vh;
+    background-color: burlywood;
+    
+}
+
+.navbar{
+    position: fixed;
+}
+
+#header-img {
+    width: 150px;
+    height: 150;
+    padding-top: 30px;
+   
+}
+.d-flex{
+    height: 30px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.card{
+    padding-top: 15px;
+}
+
+.row{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
